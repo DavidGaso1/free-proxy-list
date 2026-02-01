@@ -52,9 +52,9 @@
     }
   },
   {
-    "proxy": "http://38.190.100.168:999",
+    "proxy": "http://206.84.201.101:999",
     "protocol": "http",
-    "ip": "38.190.100.168",
+    "ip": "206.84.201.101",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -143,22 +143,22 @@
     }
   },
   {
-    "proxy": "http://190.119.132.62:80",
+    "proxy": "http://38.158.83.129:999",
     "protocol": "http",
-    "ip": "190.119.132.62",
-    "port": 80,
+    "ip": "38.158.83.129",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PE",
-      "city": "Lima"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "http://38.158.83.129:999",
+    "proxy": "http://38.52.183.33:999",
     "protocol": "http",
-    "ip": "38.158.83.129",
+    "ip": "38.52.183.33",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -179,6 +179,19 @@
     "geolocation": {
       "country": "PE",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://201.230.121.126:999",
+    "protocol": "http",
+    "ip": "201.230.121.126",
+    "port": 999,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "PE",
+      "city": "Lima"
     }
   }
 ]
