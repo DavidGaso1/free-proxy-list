@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://62.60.131.194:5133",
+    "proxy": "socks5://62.60.131.189:4462",
     "protocol": "socks5",
-    "ip": "62.60.131.194",
-    "port": 5133,
+    "ip": "62.60.131.189",
+    "port": 4462,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://62.60.131.203:5151",
+    "proxy": "socks5://36.255.98.161:5707",
     "protocol": "socks5",
-    "ip": "62.60.131.203",
-    "port": 5151,
+    "ip": "36.255.98.161",
+    "port": 5707,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +26,23 @@
     }
   },
   {
-    "proxy": "socks5://62.60.131.183:4004",
+    "proxy": "socks5://62.60.131.186:8123",
     "protocol": "socks5",
-    "ip": "62.60.131.183",
-    "port": 4004,
+    "ip": "62.60.131.186",
+    "port": 8123,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://62.60.131.180:8321",
+    "protocol": "socks5",
+    "ip": "62.60.131.180",
+    "port": 8321,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,10 +65,10 @@
     }
   },
   {
-    "proxy": "socks5://62.60.131.179:8561",
+    "proxy": "socks5://36.255.98.175:5629",
     "protocol": "socks5",
-    "ip": "62.60.131.179",
-    "port": 8561,
+    "ip": "36.255.98.175",
+    "port": 5629,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -65,10 +78,10 @@
     }
   },
   {
-    "proxy": "socks5://62.60.131.193:7979",
+    "proxy": "socks5://62.60.131.203:5101",
     "protocol": "socks5",
-    "ip": "62.60.131.193",
-    "port": 7979,
+    "ip": "62.60.131.203",
+    "port": 5101,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -78,10 +91,10 @@
     }
   },
   {
-    "proxy": "socks4://83.168.101.27:5678",
-    "protocol": "socks4",
-    "ip": "83.168.101.27",
-    "port": 5678,
+    "proxy": "socks5://36.255.98.160:6067",
+    "protocol": "socks5",
+    "ip": "36.255.98.160",
+    "port": 6067,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -91,10 +104,10 @@
     }
   },
   {
-    "proxy": "socks4://185.32.6.121:4153",
-    "protocol": "socks4",
-    "ip": "185.32.6.121",
-    "port": 4153,
+    "proxy": "socks5://36.255.98.177:5031",
+    "protocol": "socks5",
+    "ip": "36.255.98.177",
+    "port": 5031,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
