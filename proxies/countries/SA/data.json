@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "socks5://62.60.131.194:8088",
+    "proxy": "socks5://62.60.131.179:4369",
     "protocol": "socks5",
-    "ip": "62.60.131.194",
-    "port": 8088,
+    "ip": "62.60.131.179",
+    "port": 4369,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://62.60.131.191:4311",
+    "protocol": "socks5",
+    "ip": "62.60.131.191",
+    "port": 4311,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
