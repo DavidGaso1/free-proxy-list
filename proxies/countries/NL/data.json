@@ -13,6 +13,45 @@
     }
   },
   {
+    "proxy": "socks5://5.255.113.177:1080",
+    "protocol": "socks5",
+    "ip": "5.255.113.177",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": "Dronten"
+    }
+  },
+  {
+    "proxy": "http://98.64.128.182:3128",
+    "protocol": "http",
+    "ip": "98.64.128.182",
+    "port": 3128,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": "Amsterdam"
+    }
+  },
+  {
+    "proxy": "http://195.26.224.135:80",
+    "protocol": "http",
+    "ip": "195.26.224.135",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "NL",
+      "city": "Amsterdam"
+    }
+  },
+  {
     "proxy": "http://188.114.96.66:80",
     "protocol": "http",
     "ip": "188.114.96.66",
@@ -32,19 +71,6 @@
     "port": 80,
     "https": false,
     "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": "Amsterdam"
-    }
-  },
-  {
-    "proxy": "http://195.26.224.135:80",
-    "protocol": "http",
-    "ip": "195.26.224.135",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "NL",
@@ -195,19 +221,6 @@
     }
   },
   {
-    "proxy": "http://98.64.128.182:3128",
-    "protocol": "http",
-    "ip": "98.64.128.182",
-    "port": 3128,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": "Amsterdam"
-    }
-  },
-  {
     "proxy": "http://45.131.208.9:80",
     "protocol": "http",
     "ip": "45.131.208.9",
@@ -322,19 +335,6 @@
     "geolocation": {
       "country": "NL",
       "city": ""
-    }
-  },
-  {
-    "proxy": "socks5://5.255.113.177:1080",
-    "protocol": "socks5",
-    "ip": "5.255.113.177",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "NL",
-      "city": "Dronten"
     }
   },
   {
