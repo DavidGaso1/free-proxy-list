@@ -39,10 +39,36 @@
     }
   },
   {
-    "proxy": "socks5://152.53.171.242:31659",
+    "proxy": "socks5://152.53.171.242:31034",
     "protocol": "socks5",
     "ip": "152.53.171.242",
-    "port": 31659,
+    "port": 31034,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://152.53.171.242:44165",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 44165,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://152.53.171.242:30590",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 30590,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -78,6 +104,19 @@
     }
   },
   {
+    "proxy": "socks5://152.53.171.242:12265",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 12265,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://152.53.171.242:34567",
     "protocol": "socks5",
     "ip": "152.53.171.242",
@@ -91,11 +130,24 @@
     }
   },
   {
-    "proxy": "socks5://152.53.171.242:11679",
-    "protocol": "socks5",
-    "ip": "152.53.171.242",
-    "port": 11679,
-    "https": false,
+    "proxy": "http://103.62.50.130:443",
+    "protocol": "http",
+    "ip": "103.62.50.130",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://103.62.50.130:9443",
+    "protocol": "http",
+    "ip": "103.62.50.130",
+    "port": 9443,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -117,10 +169,10 @@
     }
   },
   {
-    "proxy": "http://51.161.131.235:8080",
+    "proxy": "http://72.10.160.90:21671",
     "protocol": "http",
-    "ip": "51.161.131.235",
-    "port": 8080,
+    "ip": "72.10.160.90",
+    "port": 21671,
     "https": false,
     "anonymity": "transparent",
     "score": 1,

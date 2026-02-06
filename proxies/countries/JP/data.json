@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks4://43.153.131.83:16923",
-    "protocol": "socks4",
-    "ip": "43.153.131.83",
-    "port": 16923,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://103.37.111.253:10086",
     "protocol": "http",
     "ip": "103.37.111.253",
@@ -130,19 +117,6 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41393",
-    "protocol": "http",
-    "ip": "47.243.181.85",
-    "port": 41393,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://103.100.159.145:443",
     "protocol": "http",
     "ip": "103.100.159.145",
@@ -199,19 +173,6 @@
     "protocol": "http",
     "ip": "47.243.181.85",
     "port": 41399,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://47.243.181.85:41398",
-    "protocol": "http",
-    "ip": "47.243.181.85",
-    "port": 41398,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -286,32 +247,6 @@
     }
   },
   {
-    "proxy": "http://116.80.62.22:3128",
-    "protocol": "http",
-    "ip": "116.80.62.22",
-    "port": 3128,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Yokohama"
-    }
-  },
-  {
-    "proxy": "http://157.120.34.237:3128",
-    "protocol": "http",
-    "ip": "157.120.34.237",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://116.80.45.151:3172",
     "protocol": "http",
     "ip": "116.80.45.151",
@@ -338,10 +273,10 @@
     }
   },
   {
-    "proxy": "http://85.234.83.80:3128",
+    "proxy": "http://43.153.182.11:7777",
     "protocol": "http",
-    "ip": "85.234.83.80",
-    "port": 3128,
+    "ip": "43.153.182.11",
+    "port": 7777,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
