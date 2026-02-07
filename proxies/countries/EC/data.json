@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://177.234.217.42:999",
-    "protocol": "http",
-    "ip": "177.234.217.42",
-    "port": 999,
+    "proxy": "socks4://190.57.131.158:1080",
+    "protocol": "socks4",
+    "ip": "190.57.131.158",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,36 @@
     }
   },
   {
-    "proxy": "http://181.78.198.7:8080",
-    "protocol": "http",
-    "ip": "181.78.198.7",
+    "proxy": "socks4://186.47.213.158:5678",
+    "protocol": "socks4",
+    "ip": "186.47.213.158",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://160.20.165.242:8080",
+    "protocol": "socks4",
+    "ip": "160.20.165.242",
     "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://177.234.217.42:999",
+    "protocol": "http",
+    "ip": "177.234.217.42",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -68,19 +94,6 @@
     "proxy": "http://190.12.150.244:999",
     "protocol": "http",
     "ip": "190.12.150.244",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://45.224.99.89:999",
-    "protocol": "http",
-    "ip": "45.224.99.89",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -289,6 +302,19 @@
     "proxy": "http://181.78.194.249:999",
     "protocol": "http",
     "ip": "181.78.194.249",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://200.24.134.53:999",
+    "protocol": "http",
+    "ip": "200.24.134.53",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
