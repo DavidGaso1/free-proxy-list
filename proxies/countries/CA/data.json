@@ -26,6 +26,19 @@
     }
   },
   {
+    "proxy": "http://146.19.9.236:443",
+    "protocol": "http",
+    "ip": "146.19.9.236",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks4://192.111.129.150:4145",
     "protocol": "socks4",
     "ip": "192.111.129.150",
