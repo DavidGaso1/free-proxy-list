@@ -1,9 +1,35 @@
 [
   {
-    "proxy": "socks5://152.53.171.242:11261",
+    "proxy": "socks5://152.53.171.242:24581",
     "protocol": "socks5",
     "ip": "152.53.171.242",
-    "port": 11261,
+    "port": 24581,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://152.53.171.242:12889",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 12889,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ES",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://152.53.171.242:21458",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 21458,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +52,10 @@
     }
   },
   {
-    "proxy": "socks5://152.53.171.242:19033",
+    "proxy": "socks5://152.53.171.242:16929",
     "protocol": "socks5",
     "ip": "152.53.171.242",
-    "port": 19033,
+    "port": 16929,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,10 +65,10 @@
     }
   },
   {
-    "proxy": "socks4://141.105.107.152:5678",
-    "protocol": "socks4",
-    "ip": "141.105.107.152",
-    "port": 5678,
+    "proxy": "socks5://152.53.171.242:32255",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 32255,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -65,29 +91,16 @@
     }
   },
   {
-    "proxy": "http://80.78.128.94:8080",
+    "proxy": "http://195.189.190.245:9090",
     "protocol": "http",
-    "ip": "80.78.128.94",
-    "port": 8080,
+    "ip": "195.189.190.245",
+    "port": 9090,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "ES",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://195.114.209.50:80",
-    "protocol": "http",
-    "ip": "195.114.209.50",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "ES",
-      "city": ""
     }
   },
   {
