@@ -26,6 +26,19 @@
     }
   },
   {
+    "proxy": "http://91.121.88.53:443",
+    "protocol": "http",
+    "ip": "91.121.88.53",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://51.38.191.151:443",
     "protocol": "http",
     "ip": "51.38.191.151",
@@ -169,19 +182,6 @@
     }
   },
   {
-    "proxy": "http://163.172.53.142:443",
-    "protocol": "http",
-    "ip": "163.172.53.142",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FR",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://163.172.167.48:443",
     "protocol": "http",
     "ip": "163.172.167.48",
@@ -199,6 +199,32 @@
     "protocol": "http",
     "ip": "212.47.232.28",
     "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://173.249.37.45:5006",
+    "protocol": "http",
+    "ip": "173.249.37.45",
+    "port": 5006,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://173.249.37.45:5051",
+    "protocol": "http",
+    "ip": "173.249.37.45",
+    "port": 5051,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -234,6 +260,32 @@
     }
   },
   {
+    "proxy": "http://91.121.63.51:1080",
+    "protocol": "http",
+    "ip": "91.121.63.51",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://141.253.123.10:3243",
+    "protocol": "http",
+    "ip": "141.253.123.10",
+    "port": 3243,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://40.89.145.14:80",
     "protocol": "http",
     "ip": "40.89.145.14",
@@ -260,48 +312,22 @@
     }
   },
   {
-    "proxy": "http://141.253.118.174:80",
+    "proxy": "http://202.133.88.173:80",
     "protocol": "http",
-    "ip": "141.253.118.174",
+    "ip": "202.133.88.173",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "FR",
-      "city": "Unknown"
+      "city": "Paris"
     }
   },
   {
-    "proxy": "http://173.212.246.157:3128",
+    "proxy": "http://185.41.152.110:3128",
     "protocol": "http",
-    "ip": "173.212.246.157",
-    "port": 3128,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "FR",
-      "city": "Lauterbourg"
-    }
-  },
-  {
-    "proxy": "http://207.180.254.198:8080",
-    "protocol": "http",
-    "ip": "207.180.254.198",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://57.128.174.79:3128",
-    "protocol": "http",
-    "ip": "57.128.174.79",
+    "ip": "185.41.152.110",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -344,19 +370,6 @@
     "port": 80,
     "https": false,
     "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "FR",
-      "city": "Paris"
-    }
-  },
-  {
-    "proxy": "http://202.133.88.173:80",
-    "protocol": "http",
-    "ip": "202.133.88.173",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "FR",
@@ -764,6 +777,19 @@
     "geolocation": {
       "country": "FR",
       "city": "Paris"
+    }
+  },
+  {
+    "proxy": "http://173.212.246.157:3128",
+    "protocol": "http",
+    "ip": "173.212.246.157",
+    "port": 3128,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Lauterbourg"
     }
   },
   {
