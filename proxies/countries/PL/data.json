@@ -1,10 +1,10 @@
 [
   {
-    "proxy": "http://151.115.78.51:443",
-    "protocol": "http",
-    "ip": "151.115.78.51",
-    "port": 443,
-    "https": true,
+    "proxy": "socks4://195.116.155.169:3629",
+    "protocol": "socks4",
+    "ip": "195.116.155.169",
+    "port": 3629,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -13,10 +13,23 @@
     }
   },
   {
-    "proxy": "http://37.120.156.34:9443",
+    "proxy": "socks4://185.32.4.126:4153",
+    "protocol": "socks4",
+    "ip": "185.32.4.126",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://151.115.78.51:443",
     "protocol": "http",
-    "ip": "37.120.156.34",
-    "port": 9443,
+    "ip": "151.115.78.51",
+    "port": 443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -49,19 +62,6 @@
     "geolocation": {
       "country": "PL",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://212.127.95.235:8081",
-    "protocol": "http",
-    "ip": "212.127.95.235",
-    "port": 8081,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Wroclaw"
     }
   },
   {
@@ -104,6 +104,19 @@
     }
   },
   {
+    "proxy": "http://185.28.250.90:8090",
+    "protocol": "http",
+    "ip": "185.28.250.90",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://79.110.202.131:8081",
     "protocol": "http",
     "ip": "79.110.202.131",
@@ -127,6 +140,19 @@
     "geolocation": {
       "country": "PL",
       "city": "Rzesz?w"
+    }
+  },
+  {
+    "proxy": "http://212.127.95.235:8081",
+    "protocol": "http",
+    "ip": "212.127.95.235",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Wroclaw"
     }
   }
 ]
