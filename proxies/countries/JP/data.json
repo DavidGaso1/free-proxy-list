@@ -78,9 +78,9 @@
     }
   },
   {
-    "proxy": "http://37.120.210.66:9443",
+    "proxy": "http://37.120.210.146:9443",
     "protocol": "http",
-    "ip": "37.120.210.66",
+    "ip": "37.120.210.146",
     "port": 9443,
     "https": true,
     "anonymity": "transparent",
@@ -104,23 +104,10 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41410",
+    "proxy": "http://47.243.181.85:41400",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 41410,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://47.243.181.85:41393",
-    "protocol": "http",
-    "ip": "47.243.181.85",
-    "port": 41393,
+    "port": 41400,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -156,10 +143,10 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41402",
+    "proxy": "http://47.243.181.85:41419",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 41402,
+    "port": 41419,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -169,10 +156,10 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41399",
+    "proxy": "http://47.243.181.85:41402",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 41399,
+    "port": 41402,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -208,6 +195,19 @@
     }
   },
   {
+    "proxy": "http://48.210.225.96:80",
+    "protocol": "http",
+    "ip": "48.210.225.96",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Tokyo"
+    }
+  },
+  {
     "proxy": "http://150.230.104.3:16728",
     "protocol": "http",
     "ip": "150.230.104.3",
@@ -224,19 +224,6 @@
     "proxy": "http://13.230.34.30:80",
     "protocol": "http",
     "ip": "13.230.34.30",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Tokyo"
-    }
-  },
-  {
-    "proxy": "http://48.210.225.96:80",
-    "protocol": "http",
-    "ip": "48.210.225.96",
     "port": 80,
     "https": false,
     "anonymity": "transparent",

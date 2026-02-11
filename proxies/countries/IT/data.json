@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "http://80.211.137.210:8088",
+    "proxy": "http://85.208.200.185:8081",
     "protocol": "http",
-    "ip": "80.211.137.210",
-    "port": 8088,
+    "ip": "85.208.200.185",
+    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -49,6 +49,19 @@
     "geolocation": {
       "country": "IT",
       "city": "Biella"
+    }
+  },
+  {
+    "proxy": "http://80.211.137.210:8088",
+    "protocol": "http",
+    "ip": "80.211.137.210",
+    "port": 8088,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IT",
+      "city": "Unknown"
     }
   }
 ]
