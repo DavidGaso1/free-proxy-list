@@ -65,6 +65,32 @@
     }
   },
   {
+    "proxy": "socks5://123.54.197.25:20342",
+    "protocol": "socks5",
+    "ip": "123.54.197.25",
+    "port": 20342,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://123.54.197.17:23103",
+    "protocol": "socks5",
+    "ip": "123.54.197.17",
+    "port": 23103,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://85.121.244.176:50161",
     "protocol": "socks5",
     "ip": "85.121.244.176",
@@ -156,32 +182,6 @@
     }
   },
   {
-    "proxy": "http://47.56.110.204:8990",
-    "protocol": "http",
-    "ip": "47.56.110.204",
-    "port": 8990,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://218.252.118.9:80",
-    "protocol": "http",
-    "ip": "218.252.118.9",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://218.252.192.228:80",
     "protocol": "http",
     "ip": "218.252.192.228",
@@ -192,19 +192,6 @@
     "geolocation": {
       "country": "HK",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.253.43.144:80",
-    "protocol": "http",
-    "ip": "103.253.43.144",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": ""
     }
   },
   {
@@ -244,6 +231,19 @@
     "geolocation": {
       "country": "HK",
       "city": "Hong Kong"
+    }
+  },
+  {
+    "proxy": "http://103.253.43.144:80",
+    "protocol": "http",
+    "ip": "103.253.43.144",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": ""
     }
   },
   {
