@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks4://103.166.39.249:3629",
+    "proxy": "socks4://118.67.223.4:5678",
     "protocol": "socks4",
-    "ip": "103.166.39.249",
-    "port": 3629,
+    "ip": "118.67.223.4",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -104,10 +104,10 @@
     }
   },
   {
-    "proxy": "http://103.253.246.181:8090",
+    "proxy": "http://113.212.111.4:80",
     "protocol": "http",
-    "ip": "103.253.246.181",
-    "port": 8090,
+    "ip": "113.212.111.4",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -117,10 +117,10 @@
     }
   },
   {
-    "proxy": "http://59.153.18.93:20909",
+    "proxy": "http://103.253.246.181:8090",
     "protocol": "http",
-    "ip": "59.153.18.93",
-    "port": 20909,
+    "ip": "103.253.246.181",
+    "port": 8090,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -192,19 +192,6 @@
     "geolocation": {
       "country": "BD",
       "city": "Dhaka"
-    }
-  },
-  {
-    "proxy": "http://103.141.66.78:5555",
-    "protocol": "http",
-    "ip": "103.141.66.78",
-    "port": 5555,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BD",
-      "city": "Unknown"
     }
   },
   {
