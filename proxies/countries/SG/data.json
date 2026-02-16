@@ -104,10 +104,10 @@
     }
   },
   {
-    "proxy": "http://165.225.113.220:11734",
+    "proxy": "http://165.225.113.220:11683",
     "protocol": "http",
     "ip": "165.225.113.220",
-    "port": 11734,
+    "port": 11683,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -117,10 +117,23 @@
     }
   },
   {
-    "proxy": "http://165.225.113.220:11741",
+    "proxy": "http://165.225.113.220:11263",
     "protocol": "http",
     "ip": "165.225.113.220",
-    "port": 11741,
+    "port": 11263,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://165.225.113.220:11706",
+    "protocol": "http",
+    "ip": "165.225.113.220",
+    "port": 11706,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -143,36 +156,10 @@
     }
   },
   {
-    "proxy": "http://165.225.113.220:11742",
+    "proxy": "http://165.225.113.220:11747",
     "protocol": "http",
     "ip": "165.225.113.220",
-    "port": 11742,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://165.225.113.220:11703",
-    "protocol": "http",
-    "ip": "165.225.113.220",
-    "port": 11703,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://165.225.113.220:11721",
-    "protocol": "http",
-    "ip": "165.225.113.220",
-    "port": 11721,
+    "port": 11747,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -221,10 +208,23 @@
     }
   },
   {
-    "proxy": "http://165.225.113.220:11727",
+    "proxy": "http://165.225.113.220:11698",
     "protocol": "http",
     "ip": "165.225.113.220",
-    "port": 11727,
+    "port": 11698,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://165.225.113.220:11719",
+    "protocol": "http",
+    "ip": "165.225.113.220",
+    "port": 11719,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -286,45 +286,6 @@
     }
   },
   {
-    "proxy": "http://188.239.43.6:80",
-    "protocol": "http",
-    "ip": "188.239.43.6",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Singapore"
-    }
-  },
-  {
-    "proxy": "http://103.253.145.138:6980",
-    "protocol": "http",
-    "ip": "103.253.145.138",
-    "port": 6980,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://51.79.135.131:8080",
-    "protocol": "http",
-    "ip": "51.79.135.131",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://72.10.160.92:16667",
     "protocol": "http",
     "ip": "72.10.160.92",
@@ -348,6 +309,19 @@
     "geolocation": {
       "country": "SG",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://188.239.43.6:80",
+    "protocol": "http",
+    "ip": "188.239.43.6",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Singapore"
     }
   },
   {
