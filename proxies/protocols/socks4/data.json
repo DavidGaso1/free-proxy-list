@@ -117,6 +117,19 @@
     }
   },
   {
+    "proxy": "socks4://98.103.88.158:46104",
+    "protocol": "socks4",
+    "ip": "98.103.88.158",
+    "port": 46104,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "US",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks4://72.195.101.99:4145",
     "protocol": "socks4",
     "ip": "72.195.101.99",

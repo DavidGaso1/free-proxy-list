@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "http://186.167.112.91:999",
+    "protocol": "http",
+    "ip": "186.167.112.91",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://200.59.186.179:999",
     "protocol": "http",
     "ip": "200.59.186.179",
@@ -13,22 +26,9 @@
     }
   },
   {
-    "proxy": "http://200.59.191.232:999",
+    "proxy": "http://200.59.186.158:999",
     "protocol": "http",
-    "ip": "200.59.191.232",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://200.59.191.234:999",
-    "protocol": "http",
-    "ip": "200.59.191.234",
+    "ip": "200.59.186.158",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -42,6 +42,19 @@
     "proxy": "http://200.59.191.235:999",
     "protocol": "http",
     "ip": "200.59.191.235",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://154.59.59.89:999",
+    "protocol": "http",
+    "ip": "154.59.59.89",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -69,6 +82,32 @@
     "protocol": "http",
     "ip": "72.10.160.92",
     "port": 21551,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.253:30315",
+    "protocol": "http",
+    "ip": "67.43.228.253",
+    "port": 30315,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://67.43.228.250:30315",
+    "protocol": "http",
+    "ip": "67.43.228.250",
+    "port": 30315,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
