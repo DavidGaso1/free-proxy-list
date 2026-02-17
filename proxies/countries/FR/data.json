@@ -26,6 +26,19 @@
     }
   },
   {
+    "proxy": "socks5://109.205.63.178:13798",
+    "protocol": "socks5",
+    "ip": "109.205.63.178",
+    "port": 13798,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://91.121.88.53:443",
     "protocol": "http",
     "ip": "91.121.88.53",
@@ -247,6 +260,45 @@
     }
   },
   {
+    "proxy": "http://152.228.163.79:443",
+    "protocol": "http",
+    "ip": "152.228.163.79",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://37.187.109.70:10111",
+    "protocol": "http",
+    "ip": "37.187.109.70",
+    "port": 10111,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://4.233.138.204:8888",
+    "protocol": "http",
+    "ip": "4.233.138.204",
+    "port": 8888,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://40.89.145.14:80",
     "protocol": "http",
     "ip": "40.89.145.14",
@@ -257,6 +309,19 @@
     "geolocation": {
       "country": "FR",
       "city": "Paris"
+    }
+  },
+  {
+    "proxy": "http://141.253.118.174:80",
+    "protocol": "http",
+    "ip": "141.253.118.174",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
     }
   },
   {
@@ -290,6 +355,19 @@
     "protocol": "http",
     "ip": "84.247.171.137",
     "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://94.183.188.7:6891",
+    "protocol": "http",
+    "ip": "94.183.188.7",
+    "port": 6891,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
